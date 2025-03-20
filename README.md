@@ -1,5 +1,5 @@
 # Writing Samples
-These are my writing samples analyzing various algorithms and discussing topics:
+These are my writing samples analyzing various algorithms and topics such as:
 1. Dynamic Programming
 2. Indexing for Search Engines
 3. Hash Functions
